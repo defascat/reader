@@ -1,0 +1,7 @@
+In order to do development of the application - you need to install the following things:
+1. MongoDB 2.2.x - sudo yum install mongodb-server
+2. JDK 7 - http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
+
+Used Libraries:
+1. Scala 2.9
+2. Lift 2.5
